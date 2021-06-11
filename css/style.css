@@ -117,14 +117,16 @@ body {
           align-items: center;
 }
 
-.minimo_list {
-  padding: 0;
+@media (max-width: 770px) {
+  .minimo_list {
+    padding: 0;
+  }
 }
-
-.minimo_list {
-  padding: 0;
+@media (max-width: 740px) {
+  .minimo_list {
+    padding: 0;
+  }
 }
-
 @media (max-width: 600px) {
   .minimo_list ul li {
     margin: 0 0 20px 0;
