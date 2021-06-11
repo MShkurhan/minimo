@@ -87,11 +87,6 @@ body {
     margin: 0;
   }
 }
-@media (max-width: 740px) {
-  .minimo_list ul {
-    margin: 0;
-  }
-}
 .minimo_list ul {
   display: -webkit-box;
   display: -ms-flexbox;
